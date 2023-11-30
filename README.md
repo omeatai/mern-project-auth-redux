@@ -1,6 +1,3 @@
-# mern-project-auth-redux
-mern-project-auth-redux
-
 # Mern Project - Auth Redux App
 
 ## Introduction
