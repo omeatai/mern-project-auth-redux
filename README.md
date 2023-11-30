@@ -65,6 +65,10 @@ npm i -D nodemon
 **PUT /api/users/profile**     - Update user profile
 ```
 
+<img width="1252" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/274561c1-e33c-4fa6-bc05-48186663a09f">
+<img width="1250" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/ecda6f52-b9bf-46c8-a62e-078d3bb764c3">
+
+
 ```x
 
 ```
