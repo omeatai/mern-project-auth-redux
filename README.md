@@ -65,9 +65,20 @@ npm i -D nodemon
 **PUT /api/users/profile**     - Update user profile
 ```
 
+<img width="1094" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/800bbe49-e62e-43f7-85a7-195ecc151051">
+<img width="1094" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/4868d59e-7778-48e6-a6be-2cfda8ddcaae">
+<img width="1094" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/88d09d34-0488-4f51-bfc9-9a3a313971c5">
 <img width="1252" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/274561c1-e33c-4fa6-bc05-48186663a09f">
 <img width="1250" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/ecda6f52-b9bf-46c8-a62e-078d3bb764c3">
+<img width="1250" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/208cdd78-bfe3-4760-bcff-c2964c950555">
+<img width="1295" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/71a18759-b972-4e41-9d32-1cfe7cca2fda">
 
+# #End</details>
+
+<details>
+<summary>3. Setup Async Handler </summary>
+
+# Setup Async Handler 
 
 ```x
 
