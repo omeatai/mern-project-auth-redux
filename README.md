@@ -42,6 +42,12 @@ npm i express dotenv mongoose bcryptjs jsonwebtoken cookie-parser
 npm i -D nodemon
 ```
 
+<img width="1097" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/72510804-4671-4933-aff7-3c4e6c9406ef">
+<img width="1097" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/0b91f307-ac5d-44ed-a46a-efb719c396cd">
+<img width="1097" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/7ff71eef-3597-4ae6-8555-cd9b279b394c">
+<img width="1097" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/4b68d9a3-d543-43b5-ae95-ccffb1bd7544">
+<img width="1157" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/e1e0ec25-7b30-4396-8726-6c5676b6506b">
+
 # #End</details>
 
 <details>
