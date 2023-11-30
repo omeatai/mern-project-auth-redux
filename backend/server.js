@@ -2,12 +2,12 @@
 const express = require("express");
 const dotenv = require("dotenv");
 dotenv.config();
+const userRoutes = require("./routes/userRoutes");
 
 const port = process.env.PORT || 8000;
 const app = express();
 
-console.log(process.env.NODE_ENV);
-console.log(process.versions.node);
+app.use("/api/users", userRoutes);
 
 app.get("/", (req, res) => res.send("Server is ready"));
 
