@@ -1,9 +1,12 @@
 // import express from "express"; //   "type": "module", in package.json
 const express = require("express");
 const dotenv = require("dotenv");
-dotenv.config();
 const { notFound, errorHandler } = require("./middleware/errorMiddleware");
+dotenv.config();
+const connectDB = require("./config/db");
 const userRoutes = require("./routes/userRoutes");
+
+connectDB();
 
 const port = process.env.PORT || 8000;
 const app = express();
