@@ -126,9 +126,29 @@ npm i express-async-handler
 # #End</details>
 
 <details>
-<summary>6. Setup MongoDB Database and User Model </summary>
+<summary>6. Setup MongoDB Database </summary>
 
-# Setup MongoDB Database and User Model
+# Setup MongoDB Database
+
+<img width="1214" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/e92a5d2d-2d31-4fb9-9894-26196110fbbc">
+<img width="1267" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/12290347-c4a8-4efb-93a5-b615275afe29">
+<img width="1267" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/704f91ae-e274-44ad-860f-de906ea0fbd7">
+<img width="1267" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/0876ceb3-4602-4e04-9397-34608abbdedd">
+<img width="1267" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/f0bd7987-ba71-4b6e-a85d-4eb735a6a002">
+<img width="1024" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/9ef06181-c2ee-4123-8da4-61acfc0c35b9">
+<img width="1265" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/89968bc7-6931-4a4a-b640-372793e7d8e1">
+<img width="1069" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/00274e1d-64f4-46b6-8277-94f5b0c69935">
+<img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/138f4f94-32f7-49b9-9ba5-35e078a29c02">
+<img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/51ed877e-5d44-48a0-b5e4-e94139955c4f">
+<img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/ae09cd7c-06ed-4cc3-b4a6-f668dbdd90d8">
+
+# #End</details>
+
+<details>
+<summary>7. Create user Model </summary>
+
+# Create user Model
+
 
 ```x
 
