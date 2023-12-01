@@ -97,6 +97,21 @@ npm i express-async-handler
 
 # Custom Error Middleware 
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/7921e7d2404e4a8f898075edd1e31db5bb8f4713](https://github.com/omeatai/mern-project-auth-redux/commit/7921e7d2404e4a8f898075edd1e31db5bb8f4713)
+
+<img width="1096" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/8dc2be8f-b546-4ce0-9757-4cc5842abdc6">
+<img width="1096" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/6416dcef-39a8-455b-9788-d7849520a2f9">
+<img width="1096" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/33b06c53-7e0b-4884-8650-a09a31abb3cd">
+<img width="1096" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/00db59cf-8ce2-4591-bba4-e6ca0e9a7293">
+<img width="1254" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/f875fdef-e403-4f84-9ef6-9b9743757715">
+
+# #End</details>
+
+<details>
+<summary>5. User Controller Functions and Routes </summary>
+
+# User Controller Functions and Routes
+
 ```x
 
 ```
