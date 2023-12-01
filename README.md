@@ -80,9 +80,22 @@ npm i -D nodemon
 
 # Setup Async Handler 
 
-```x
+### [https://github.com/omeatai/mern-project-auth-redux/commit/28bfc79595adbfb0b3745f38bc1971e4839f49c3](https://github.com/omeatai/mern-project-auth-redux/commit/28bfc79595adbfb0b3745f38bc1971e4839f49c3)
 
+#Install Express-Async-Handler
+
+```x
+npm i express-async-handler
 ```
+
+<img width="1094" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/9ee921ef-bfd9-415d-a137-f51239c85e73">
+
+# #End</details>
+
+<details>
+<summary>4. Custom Error Middleware </summary>
+
+# Custom Error Middleware 
 
 ```x
 
