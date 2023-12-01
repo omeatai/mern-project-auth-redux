@@ -130,6 +130,8 @@ npm i express-async-handler
 
 # Setup MongoDB Database
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/7fc635be57d3be03934cc47d572ff39573d7b1d4](https://github.com/omeatai/mern-project-auth-redux/commit/7fc635be57d3be03934cc47d572ff39573d7b1d4)
+
 <img width="1214" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/e92a5d2d-2d31-4fb9-9894-26196110fbbc">
 <img width="1267" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/12290347-c4a8-4efb-93a5-b615275afe29">
 <img width="1267" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/704f91ae-e274-44ad-860f-de906ea0fbd7">
@@ -145,9 +147,9 @@ npm i express-async-handler
 # #End</details>
 
 <details>
-<summary>7. Create user Model </summary>
+<summary>7. Create User Model </summary>
 
-# Create user Model
+# Create User Model
 
 
 ```x
