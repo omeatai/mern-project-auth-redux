@@ -163,9 +163,25 @@ npm i express-async-handler
 # #End</details>
 
 <details>
-<summary>8. Register User Functionality </summary>
+<summary>8. Register User Logic </summary>
 
-# Register User Functionality 
+# Register User Logic
+
+### [https://github.com/omeatai/mern-project-auth-redux/commit/17c7691a6a9c041fa77ea894d965f1aeeb904f0e](https://github.com/omeatai/mern-project-auth-redux/commit/17c7691a6a9c041fa77ea894d965f1aeeb904f0e)
+
+<img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/4b1688b3-f411-461f-b97b-deaa47091d94">
+<img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/a0ae5f4d-a945-4d82-8b10-39d4492ce66a">
+<img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/7aed2549-376c-4fd4-9a0d-5a1612c23a74">
+<img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/b73c5861-00ac-4242-9862-8bb988fe6df1">
+<img width="1204" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/397f3688-0f1c-4194-922a-9845537a40be">
+<img width="1042" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/74d31eb3-9338-4f0d-bfc0-d590f40edc69">
+
+# #End</details>
+
+<details>
+<summary>9. Generate JWT and save in http-only Cookie </summary>
+
+# Generate JWT and save in http-only Cookie 
 
 ```x
 
