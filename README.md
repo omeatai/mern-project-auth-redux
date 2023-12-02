@@ -153,7 +153,9 @@ npm i express-async-handler
 
 ### [https://github.com/omeatai/mern-project-auth-redux/commit/ce4f3c953c033e898ef1d2fccc81327b721439b7](https://github.com/omeatai/mern-project-auth-redux/commit/ce4f3c953c033e898ef1d2fccc81327b721439b7)
 
-<img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/8dae4369-4fe0-48da-8e1b-366820dd46ab">
+### [https://github.com/omeatai/mern-project-auth-redux/commit/1a524216267dcc4c8c6141ac2972b3992de0a9e8](https://github.com/omeatai/mern-project-auth-redux/commit/1a524216267dcc4c8c6141ac2972b3992de0a9e8)
+
+<img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/6b5141c9-e4ab-4fc5-89ee-16df28779972">
 <img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/21832352-9870-4079-8c92-59805121fc82">
 <img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/d4d0eef0-18b3-4440-a28e-b07b17a75be9">
 <img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/8b1fe90c-0b94-4260-b7bf-eef8cf2803be">
