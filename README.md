@@ -183,6 +183,20 @@ npm i express-async-handler
 
 # Generate JWT and save in http-only Cookie 
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/a2b5c0cd2b82a868bd750b7b5cbc79c3db0006be](https://github.com/omeatai/mern-project-auth-redux/commit/a2b5c0cd2b82a868bd750b7b5cbc79c3db0006be)
+
+<img width="1092" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/1a0dca74-3da2-4c6c-9981-b69e825b1b28">
+<img width="1092" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/d5c7b543-076f-4454-845b-f8fbcec409ba">
+<img width="1204" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/c58e1056-c6cd-4d24-89bb-f5b4f8f5ed90">
+<img width="1204" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/fff314fc-375d-4750-98a1-ed9711c496b2">
+
+# #End</details>
+
+<details>
+<summary>10. Login/Auth User Logic </summary>
+
+# Login/Auth User Logic 
+
 ```x
 
 ```
