@@ -30,5 +30,3 @@ router.post("/logout", logoutUser);
 router.route("/profile").get(getUserProfile).put(updateUserProfile);
 
 module.exports = router;
-
-//
