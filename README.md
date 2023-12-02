@@ -197,6 +197,22 @@ npm i express-async-handler
 
 # Login/Auth User Logic 
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/076276ffb9b42f138035153179e8a32523e43495](https://github.com/omeatai/mern-project-auth-redux/commit/076276ffb9b42f138035153179e8a32523e43495)
+
+<img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/7a900ba7-b2b7-4474-b613-ec558a70da54">
+<img width="1095" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/9ca2ba6c-9448-4dca-8daf-126f524677d9">
+<img width="1183" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/5cff7c3a-21b8-40ad-8756-d63efa39606f">
+<img width="1183" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/7daa1826-f550-4cdd-adc2-15179c7dc3f7">
+<img width="1183" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/cb7f8d6d-c30b-457d-b82d-5093dd816aae">
+<img width="1183" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/f0fbc1aa-4cd9-4bfc-a277-8768cf454b8d">
+
+# #End</details>
+
+<details>
+<summary>11. Logout User Logic </summary>
+
+# Logout User Logic
+
 ```x
 
 ```
