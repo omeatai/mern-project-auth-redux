@@ -8,6 +8,7 @@ const {
   getUserProfile,
   updateUserProfile,
 } = require("../controllers/userController");
+const { protect } = require("../middleware/authMiddleware");
 
 // @desc Register user
 // route POST /api/users
@@ -27,6 +28,9 @@ router.post("/logout", logoutUser);
 // @desc Get User Profile && Update User Profile
 // route GET /api/users/profile &&  PUT /api/users/profile
 // @access Private
-router.route("/profile").get(getUserProfile).put(updateUserProfile);
+router
+  .route("/profile")
+  .get(protect, getUserProfile)
+  .put(protect, updateUserProfile);
 
 module.exports = router;
