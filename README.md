@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a modern mern Auth Redux Toolkit Application built with React, Node, Express and MongoDB by Ifeanyi Omeata.
+This is a modern mern Auth Redux Toolkit Application built with Bootstrap5, Node, Express and MongoDB by Ifeanyi Omeata.
 
 ## Development Tools/Stack
 
