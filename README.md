@@ -213,6 +213,42 @@ npm i express-async-handler
 
 # Logout User Logic
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/c37ed9d70b5fca7da7447a6539959c4a7d3b649e](https://github.com/omeatai/mern-project-auth-redux/commit/c37ed9d70b5fca7da7447a6539959c4a7d3b649e)
+
+<img width="1094" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/1a453a83-b0c4-41aa-9303-1af5bc00c770">
+<img width="1184" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/ab6efcb8-fd7e-4db1-8f95-25c8d5788ade">
+<img width="1184" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/f985f9bf-776c-48ea-93a2-b2b0fe79600f">
+
+# #End</details>
+
+<details>
+<summary>12. Protect Routes with Auth Middleware </summary>
+
+# Protect Routes with Auth Middleware
+
+### [https://github.com/omeatai/mern-project-auth-redux/commit/2c0809980926293e480e2f9427d96285b47ff60b](https://github.com/omeatai/mern-project-auth-redux/commit/2c0809980926293e480e2f9427d96285b47ff60b)
+
+<img width="1184" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/39dc03a3-b1d6-469f-b360-182447e8624d">
+<img width="1184" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/878954e4-4b86-4738-83fc-cd747570e61a">
+<img width="1099" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/bd72e3e9-e70d-4046-a9e9-714521e2c866">
+<img width="1099" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/f8b36e8b-d6d5-46d3-81fa-90994fae68b5">
+<img width="1184" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/ac9256bb-16e8-44b7-b7a0-db334488536f">
+<img width="1184" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/ae117fc0-076a-4fec-bb3b-e3cb83f6d83b">
+<img width="1186" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/e4ee7a04-fdfe-4d8b-927a-a864bff5b4b1">
+<img width="1186" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/21906b58-7855-4441-b56f-ad0025ead273">
+<img width="1186" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/e7ff6f69-9089-4472-9cca-8af0f4319edf">
+<img width="1093" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/2d44ff36-8092-4f62-80c4-cfc3e0d49d4a">
+<img width="1185" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/25b9ed13-98e2-446a-8cb0-797f2bafef79">
+<img width="1094" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/201a0046-4330-4491-b073-e4cd99413e24">
+<img width="1187" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/9c275b01-8661-4ceb-b67c-f5807bff9787">
+
+# #End</details>
+
+<details>
+<summary>13. Update User Logic </summary>
+
+# Update User Logic
+
 ```x
 
 ```
