@@ -12,6 +12,7 @@ This is a modern mern Auth Redux Toolkit Application built with React Bootstrap,
 - MongoDB [https://www.mongodb.com/cloud/atlas/register](https://www.mongodb.com/cloud/atlas/register)
 - React-Toastify [https://www.npmjs.com/package/react-toastify](https://www.npmjs.com/package/react-toastify)
 - Axios [https://www.npmjs.com/package/axios](https://www.npmjs.com/package/axios)
+- Vite [https://vitejs.dev/](https://vitejs.dev/)
 
 ## Demo
 
