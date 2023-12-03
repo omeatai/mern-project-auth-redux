@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This is a modern mern Auth Redux Toolkit Application built with Bootstrap5, Node, Express and MongoDB by Ifeanyi Omeata.
+This is a modern mern Auth Redux Toolkit Application built with React Bootstrap, Node, Express and MongoDB by Ifeanyi Omeata.
 
 ## Development Tools/Stack
 
-- Bootstrap5 [https://getbootstrap.com/docs/5.2/getting-started/introduction/](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+- React Bootstrap [https://react-bootstrap.netlify.app/docs/getting-started/introduction](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
 - Node [https://nodejs.org/en/](https://nodejs.org/en/)
 - Express [https://expressjs.com/](https://expressjs.com/)
 - MongoDB [https://www.mongodb.com/cloud/atlas/register](https://www.mongodb.com/cloud/atlas/register)
