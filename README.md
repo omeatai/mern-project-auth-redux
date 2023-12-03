@@ -6,7 +6,7 @@ This is a modern mern Auth Redux Toolkit Application built with React, Node, Exp
 
 ## Development Tools/Stack
 
-- React [https://react.dev/](https://react.dev/)
+- Bootstrap5 [https://getbootstrap.com/docs/5.2/getting-started/introduction/](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 - Node [https://nodejs.org/en/](https://nodejs.org/en/)
 - Express [https://expressjs.com/](https://expressjs.com/)
 - MongoDB [https://www.mongodb.com/cloud/atlas/register](https://www.mongodb.com/cloud/atlas/register)
