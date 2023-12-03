@@ -13,6 +13,7 @@ This is a modern mern Auth Redux Toolkit Application built with React Bootstrap,
 - React-Toastify [https://www.npmjs.com/package/react-toastify](https://www.npmjs.com/package/react-toastify)
 - Axios [https://www.npmjs.com/package/axios](https://www.npmjs.com/package/axios)
 - Vite [https://vitejs.dev/](https://vitejs.dev/)
+- Redux Toolkit [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
 
 ## Demo
 
