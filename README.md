@@ -249,6 +249,20 @@ npm i express-async-handler
 
 # Update User Logic
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/34ab5447c1390128eb0dcb10503dfdf4402c4208](https://github.com/omeatai/mern-project-auth-redux/commit/34ab5447c1390128eb0dcb10503dfdf4402c4208)
+
+<img width="1099" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/d370d5d9-631d-4d43-a53b-69ae304cd698">
+<img width="1185" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/eb517604-8b32-49ad-9407-53f204541185">
+<img width="1185" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/bb253729-5d73-4e82-974f-9f7a825157be">
+<img width="1026" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/31b20066-ea6e-4636-9b9d-afa58255f6ce">
+
+# #End</details>
+
+<details>
+<summary>14. Setup Frontend </summary>
+
+# Setup Frontend
+
 ```x
 
 ```
