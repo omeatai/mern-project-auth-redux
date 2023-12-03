@@ -1,4 +1,4 @@
-# Mern Project - Auth Redux App
+# Mern Project - Auth Redux Toolkit App
 
 ## Introduction
 
