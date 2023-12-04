@@ -329,6 +329,7 @@ npm i react-bootstrap react-icons bootstrap
 <img width="1091" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/8ea7cdab-d4bd-413f-ad2c-530d0c1c4b6b">
 <img width="1091" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/7dabe384-5e54-40af-b038-740cefe756c5">
 <img width="1091" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/450d70db-bbdc-4289-9d6f-fabdfd7ceaa5">
+<img width="1293" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/9378eaa0-8083-4f17-9707-cd70e1a7ae6f">
 
 # #End</details>
 
