@@ -276,7 +276,7 @@ npm install
 ```
 
 <img width="1087" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/c4acb925-600c-4b35-adfc-9f39d576594d">
-<img width="1087" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/d24bd77f-a388-4e11-901f-e769537e7d9e">
+<img width="1087" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/04603d84-fd86-4744-93bb-44c8b900fcec">
 <img width="1087" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/62754092-8999-462c-ab84-eed528772cf5">
 
 # #End</details>
