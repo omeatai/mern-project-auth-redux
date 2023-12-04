@@ -265,9 +265,26 @@ npm i express-async-handler
 
 # Setup Frontend
 
-```x
+### [https://github.com/omeatai/mern-project-auth-redux/commit/4e18b83a1863f89f2f693888fb098b9158ad9f64](https://github.com/omeatai/mern-project-auth-redux/commit/4e18b83a1863f89f2f693888fb098b9158ad9f64)
 
+# Install React with Vite
+
+```x
+npm create vite@latest frontend
+cd frontend
+npm install
 ```
+
+<img width="1087" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/c4acb925-600c-4b35-adfc-9f39d576594d">
+<img width="1087" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/04603d84-fd86-4744-93bb-44c8b900fcec">
+<img width="1087" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/62754092-8999-462c-ab84-eed528772cf5">
+
+# #End</details>
+
+<details>
+<summary>15. Setup Concurrently </summary>
+
+# Setup Concurrently
 
 ```x
 
