@@ -312,13 +312,30 @@ npm run dev
 # #End</details>
 
 <details>
-<summary>16. React Bootstrap Setup </summary>
+<summary>16. React Bootstrap and App Component Setup </summary>
 
-# React Bootstrap Setup
+# React Bootstrap and App Component Setup
+
+### [https://github.com/omeatai/mern-project-auth-redux/commit/a543d35c78592b66b4b84adbef23f3056519edeb](https://github.com/omeatai/mern-project-auth-redux/commit/a543d35c78592b66b4b84adbef23f3056519edeb)
+
+# Install React-Bootstrap, React-Icons and Bootstrap
 
 ```x
-
+cd frontend
+npm i react-bootstrap react-icons bootstrap
 ```
+
+<img width="1091" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/9da54396-acf8-40b0-bda2-ff5111e6532c">
+<img width="1091" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/8ea7cdab-d4bd-413f-ad2c-530d0c1c4b6b">
+<img width="1091" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/7dabe384-5e54-40af-b038-740cefe756c5">
+<img width="1091" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/450d70db-bbdc-4289-9d6f-fabdfd7ceaa5">
+
+# #End</details>
+
+<details>
+<summary>17. Header Component </summary>
+
+# Header Component
 
 ```x
 
