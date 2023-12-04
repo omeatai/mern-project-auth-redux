@@ -286,9 +286,35 @@ npm install
 
 # Setup Concurrently
 
-```x
+### [https://github.com/omeatai/mern-project-auth-redux/commit/21974287f67ff9061d9148f97a4e1deadc3092fe](https://github.com/omeatai/mern-project-auth-redux/commit/21974287f67ff9061d9148f97a4e1deadc3092fe)
 
+```x
+npm i -D concurrently
 ```
+
+# Package.json
+
+```x
+"dev": "concurrently \"npm run server\" \"npm run client\""
+```
+
+# Start Frontend and Backend Concurrently
+
+```x
+npm run dev
+```
+
+<img width="1087" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/82771c99-6cdc-4624-b59c-1b315d7ecf9c">
+<img width="1087" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/0addb01a-7cd6-4e67-bd4f-fa158587b95b">
+<img width="1292" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/0d9b5491-6fa7-4b2d-92ec-bff64fb07bf0">
+<img width="1292" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/bd45f6d4-3583-4499-bfc0-b896b982140f">
+
+# #End</details>
+
+<details>
+<summary>16. React Bootstrap Setup </summary>
+
+# React Bootstrap Setup
 
 ```x
 
