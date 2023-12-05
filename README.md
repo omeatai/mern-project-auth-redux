@@ -6,6 +6,7 @@ This is a modern mern Auth Redux Toolkit Application built with React Bootstrap,
 
 ## Development Tools/Stack
 
+- React [https://react.dev/](https://react.dev/)
 - React Bootstrap [https://react-bootstrap.netlify.app/docs/getting-started/introduction](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
 - Node [https://nodejs.org/en/](https://nodejs.org/en/)
 - Express [https://expressjs.com/](https://expressjs.com/)
