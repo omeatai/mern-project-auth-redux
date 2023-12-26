@@ -375,6 +375,23 @@ npm i react-router-dom react-router-bootstrap
 
 # Setup Login and Register Form UI
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/1b664c4ef26757bfa9be3b361fc9d13bf422b320](https://github.com/omeatai/mern-project-auth-redux/commit/1b664c4ef26757bfa9be3b361fc9d13bf422b320)
+
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/71b7c440-94e2-4a06-94b7-d309ddf4b715">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/ad3f8c04-d4f6-4794-8c1f-e318afb6543e">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/05a0307d-157e-4b48-883d-155d8d035c5d">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/07feb239-465a-44f8-bcde-faddfdc438e8">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/7d63f95f-e5f8-419a-9461-595a1dd2442f">
+<img width="1255" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/e831e1fd-e4fd-4ba9-8bc2-f9ecc14978d3">
+<img width="1255" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/56277776-62d0-4c85-afd2-ab187ba009fc">
+
+# #End</details>
+
+<details>
+<summary>20. Setup Redux Toolkit </summary>
+
+# Setup Redux Toolkit
+
 ```x
 
 ```
