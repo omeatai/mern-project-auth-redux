@@ -350,9 +350,153 @@ npm i react-bootstrap react-icons bootstrap
 # #End</details>
 
 <details>
-<summary>18. Setup React Router </summary>
+<summary>18. Setup React Router DOM </summary>
 
-# Setup React Router
+# Setup React Router DOM
+
+### [https://github.com/omeatai/mern-project-auth-redux/commit/34e47d44f82cbcba39bd123190bd4df4f2ead8ea](https://github.com/omeatai/mern-project-auth-redux/commit/34e47d44f82cbcba39bd123190bd4df4f2ead8ea)
+
+# Install React Router
+
+```x
+npm i react-router-dom react-router-bootstrap
+```
+
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/4c92ef24-0894-45b8-9704-05743e2c6803">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/4728bbaf-6ddf-453b-99c7-f74a191ddf68">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/24a1b7bc-fad3-4cea-93ee-e331eb03aea7">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/22c43edb-15fc-4236-bc47-0354ba43f049">
+
+# #End</details>
+
+<details>
+<summary>19. Setup Login and Register Form UI </summary>
+
+# Setup Login and Register Form UI
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
+
+```x
+
+```
 
 ```x
 
