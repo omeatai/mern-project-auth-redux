@@ -313,9 +313,9 @@ npm run dev
 # #End</details>
 
 <details>
-<summary>16. React Bootstrap and App Component Setup </summary>
+<summary>16. Setup React Bootstrap and App Component </summary>
 
-# React Bootstrap and App Component Setup
+# Setup React Bootstrap and App Component
 
 ### [https://github.com/omeatai/mern-project-auth-redux/commit/a543d35c78592b66b4b84adbef23f3056519edeb](https://github.com/omeatai/mern-project-auth-redux/commit/a543d35c78592b66b4b84adbef23f3056519edeb)
 
@@ -335,9 +335,24 @@ npm i react-bootstrap react-icons bootstrap
 # #End</details>
 
 <details>
-<summary>17. Header Component </summary>
+<summary>17. Setup Header and Hero Components </summary>
 
-# Header Component
+# Setup Header and Hero Components
+
+### [https://github.com/omeatai/mern-project-auth-redux/commit/a1725a6d3024dacd1332fe92ee7c944f831841bb](https://github.com/omeatai/mern-project-auth-redux/commit/a1725a6d3024dacd1332fe92ee7c944f831841bb)
+
+<img width="1142" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/23751c66-cc30-4af9-9246-e98bf0946507">
+<img width="1142" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/0d45614e-e244-4246-812f-0873b8ea9b02">
+<img width="1142" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/3acf60c2-8f3e-4670-af7e-d3b609b87f70">
+<img width="1142" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/62b8163a-a910-4ffd-ac2e-cb5b340bb2a1">
+<img width="1266" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/9c3f91a0-10c1-4151-9da9-85ef6966a1bb">
+
+# #End</details>
+
+<details>
+<summary>18. Setup React Router </summary>
+
+# Setup React Router
 
 ```x
 
