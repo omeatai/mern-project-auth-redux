@@ -392,9 +392,23 @@ npm i react-router-dom react-router-bootstrap
 
 # Setup Redux Toolkit
 
-```x
+### [https://github.com/omeatai/mern-project-auth-redux/commit/e05f82d9ed5a2377ab0d2277acae462528ae4e5d](https://github.com/omeatai/mern-project-auth-redux/commit/e05f82d9ed5a2377ab0d2277acae462528ae4e5d)
 
+# Install Redux Toolkit
+
+```x
+npm i @reduxjs/toolkit react-redux
 ```
+
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/4dd793db-6d37-4758-8751-00f2358ce552">
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/8b5b334f-88a4-4126-b5ab-21f69bbcfc60">
+
+# #End</details>
+
+<details>
+<summary>21. Setup Redux Auth Slice </summary>
+
+# Setup Redux Auth Slice
 
 ```x
 
