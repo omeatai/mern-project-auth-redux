@@ -410,6 +410,19 @@ npm i @reduxjs/toolkit react-redux
 
 # Setup Redux Auth Slice
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/709448b6ee69c1c6ee593b5237c5ea3be4154136](https://github.com/omeatai/mern-project-auth-redux/commit/709448b6ee69c1c6ee593b5237c5ea3be4154136)
+
+<img width="1255" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/c9309318-6c3c-4f0f-b33d-f39d9d4231bc">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/fed5e026-5bf3-4f4e-bf25-831c22672df5">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/26276f77-57a1-43b3-944d-bfdee966db83">
+
+# #End</details>
+
+<details>
+<summary>22. Setup Redux API Slice </summary>
+
+# Setup Redux API Slice
+
 ```x
 
 ```
