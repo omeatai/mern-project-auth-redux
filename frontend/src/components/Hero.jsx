@@ -1,10 +1,11 @@
 import { Container, Card, Button } from 'react-bootstrap';
+import { LinkContainer } from 'react-router-bootstrap';
 
 const Hero = () => {
     return (
-        <div className=' py-5 w-screen bg-black'>
+        <div className='py-5 w-screen bg-dark text-white'>
             <Container className='d-flex justify-content-center'>
-                <Card className='p-5 d-flex flex-column align-items-center hero-card bg-black text-white w-75'>
+                <Card className='p-5 d-flex flex-column align-items-center hero-card bg-dark text-white w-75 border-0'>
                     <h1 className='text-center mb-4'>MERN Authentication</h1>
                     <p className='text-center mb-4'>
                         This is a boilerplate for MERN authentication that stores a JWT in
@@ -12,12 +13,17 @@ const Hero = () => {
                         Bootstrap library
                     </p>
                     <div className='d-flex'>
-                        <Button variant='primary' href='/login' className='me-3'>
-                            Sign In
-                        </Button>
-                        <Button variant='secondary' href='/register'>
-                            Register
-                        </Button>
+                        <LinkContainer to='/login'>
+                            <Button variant='primary' className='me-3'>
+                                Sign In
+                            </Button>
+                        </LinkContainer>
+
+                        <LinkContainer to='/register'>
+                            <Button variant='secondary'>
+                                Register
+                            </Button>
+                        </LinkContainer>
                     </div>
                 </Card>
             </Container>
