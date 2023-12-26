@@ -8,13 +8,14 @@ This is a modern mern Auth Redux Toolkit Application built with React Bootstrap,
 
 - React [https://react.dev/](https://react.dev/)
 - React Bootstrap [https://react-bootstrap.netlify.app/docs/getting-started/introduction](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
+- Bootstrap [https://getbootstrap.com/](https://getbootstrap.com/)
+- Redux Toolkit [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
 - Node [https://nodejs.org/en/](https://nodejs.org/en/)
 - Express [https://expressjs.com/](https://expressjs.com/)
 - MongoDB [https://www.mongodb.com/cloud/atlas/register](https://www.mongodb.com/cloud/atlas/register)
 - React-Toastify [https://www.npmjs.com/package/react-toastify](https://www.npmjs.com/package/react-toastify)
 - Axios [https://www.npmjs.com/package/axios](https://www.npmjs.com/package/axios)
 - Vite [https://vitejs.dev/](https://vitejs.dev/)
-- Redux Toolkit [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
 
 ## Demo
 
