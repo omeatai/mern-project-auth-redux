@@ -457,6 +457,23 @@ npm i react-toastify
 
 # Setup Redux Logout Functionality
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/29752b26bcef1b273842afa8fc281b20e53e1add](https://github.com/omeatai/mern-project-auth-redux/commit/29752b26bcef1b273842afa8fc281b20e53e1add)
+
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/377ddc2f-4fb3-41b9-af44-47fc33bf7c18">
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/431eeccb-b628-4b66-a138-bbe96ba57a64">
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/39576e8f-147c-42c3-8a3d-5e396f88535d">
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/108a5872-41c8-416f-ba43-de4001c4ae67">
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/6d93b69b-b9a1-4818-97ec-169b09bbb1cd">
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/f4d0bb43-36eb-4077-9f0e-75ee6b3e8ba6">
+<img width="1255" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/029ef63c-1d84-4c50-9c6f-eddbbc4096c4">
+
+# #End</details>
+
+<details>
+<summary>25. Setup Redux Register Functionality </summary>
+
+# Setup Redux Register Functionality
+
 ```x
 
 ```
