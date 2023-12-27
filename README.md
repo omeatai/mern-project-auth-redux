@@ -474,6 +474,24 @@ npm i react-toastify
 
 # Setup Redux Register Functionality
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/f177d7f1062df767b616d03da6a7505a56ac1e9a](https://github.com/omeatai/mern-project-auth-redux/commit/f177d7f1062df767b616d03da6a7505a56ac1e9a)
+
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/f8dec8f6-d0eb-46c1-ae82-215dc693462c">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/4b296313-d118-4f4e-a902-021f1fe2c5c6">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/b9ce793a-b2c2-4280-94bd-29c711bfec8b">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/71d935f4-926b-4bf5-9b30-28697d1ca417">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/758d0fa6-b72f-496d-821e-beb48556d2c2">
+<img width="1255" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/c5f1c2ee-95af-4735-acb0-1b2a86fbeaea">
+<img width="1255" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/18cf480f-dc63-4b14-be8a-68e3f1593d36">
+<img width="1255" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/d8d459ae-debb-4cfd-9c4f-ef15c3601743">
+
+# #End</details>
+
+<details>
+<summary>26. Setup Redux Register Functionality </summary>
+
+# Setup Redux Register Functionality
+
 ```x
 
 ```
