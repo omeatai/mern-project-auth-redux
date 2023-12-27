@@ -6,6 +6,7 @@ import FormContainer from './FormContainer';
 import { useLoginMutation } from '../slices/usersApiSlice';
 import { setCredentials } from '../slices/authSlice';
 import { toast } from 'react-toastify';
+import Loader from './Loader';
 
 const LoginScreen = () => {
     const [email, setEmail] = useState('');
@@ -63,13 +64,15 @@ const LoginScreen = () => {
                 <Button type='submit' variant='primary' className='mt-3'>
                     Sign In
                 </Button>
-
-                <Row className='py-3'>
-                    <Col>
-                        New Customer? <Link to='/register'>Register</Link>
-                    </Col>
-                </Row>
             </Form>
+
+            { isLoading && <Loader /> }
+
+            <Row className='py-3'>
+                <Col>
+                    New Customer? <Link to='/register'>Register</Link>
+                </Col>
+            </Row>
         </FormContainer>
     )
 }
