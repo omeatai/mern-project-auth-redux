@@ -488,9 +488,9 @@ npm i react-toastify
 # #End</details>
 
 <details>
-<summary>26. Setup Redux Register Functionality </summary>
+<summary>26. Setup Redux Profile Component </summary>
 
-# Setup Redux Register Functionality
+# Setup Redux Profile Component
 
 ```x
 
