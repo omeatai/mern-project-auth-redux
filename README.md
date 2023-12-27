@@ -437,9 +437,25 @@ npm i @reduxjs/toolkit react-redux
 
 # Setup Redux Login Functionality
 
-```x
+# Install Toastify
 
+```x
+npm i react-toastify
 ```
+
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/9efb657d-0d59-4a05-90f8-1273039c8562">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/ce94df8c-630b-411d-b70d-df9f3f7bc792">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/18277fec-045a-48d6-8424-aee65d3cdf09">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/16dfa3d8-505c-47eb-9dda-298245583461">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/9037da2c-76ed-4c84-8416-0a84f6253eef">
+<img width="1256" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/6da7aeb6-d711-4e44-a5dc-a8bd22aca45d">
+
+# #End</details>
+
+<details>
+<summary>24. Setup Redux Logout Functionality </summary>
+
+# Setup Redux Logout Functionality
 
 ```x
 
