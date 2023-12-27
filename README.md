@@ -423,6 +423,20 @@ npm i @reduxjs/toolkit react-redux
 
 # Setup Redux API Slice
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/45736129ac6e2752c9debf690818df879b47d314](https://github.com/omeatai/mern-project-auth-redux/commit/45736129ac6e2752c9debf690818df879b47d314)
+
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/342c5ef8-ea09-4885-bfe9-51fbf4431e9d">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/980f9c89-c7d9-4f0e-b7c0-c3335376992d">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/6f76186b-266d-496b-837e-00bba4d5f3d5">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/a4fdf339-50da-4ad6-8b2f-3af1624e0343">
+
+# #End</details>
+
+<details>
+<summary>23. Setup Redux Login Functionality </summary>
+
+# Setup Redux Login Functionality
+
 ```x
 
 ```
