@@ -1,3 +1,4 @@
+// const dotenv = require("dotenv");
 // dotenv.config();
 require("dotenv").config();
 
@@ -6,14 +7,14 @@ const express = require("express");
 const port = process.env.PORT || 8000;
 
 // const cors = require("cors");
-// const dotenv = require("dotenv");
+
 
 // const cookieParser = require("cookie-parser");
-// const connectDB = require("./config/db");
+const connectDB = require("./config/db");
 // const userRoutes = require("./routes/userRoutes");
 // const { notFound, errorHandler } = require("./middleware/errorMiddleware");
 
-// connectDB();
+connectDB();
 
 const app = express();
 
