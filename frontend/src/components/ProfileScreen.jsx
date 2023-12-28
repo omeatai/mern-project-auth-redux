@@ -2,8 +2,11 @@ import { useState, useEffect } from 'react';
 // import { Link, useNavigate } from 'react-router-dom';
 import { Form, Button } from 'react-bootstrap';
 import { useDispatch, useSelector } from 'react-redux';
-import FormContainer from '../components/FormContainer';
+import FormContainer from './FormContainer';
 import { toast } from 'react-toastify';
+import Loader from './Loader';
+import { useUpdateUserMutation } from '../slices/usersApiSlice';
+import { setCredentials } from '../slices/authSlice';
 
 const ProfileScreen = () => {
     const [email, setEmail] = useState('');
@@ -15,6 +18,8 @@ const ProfileScreen = () => {
 
     const { userInfo } = useSelector((state) => state.auth);
 
+    const [updateProfile, { isLoading }] = useUpdateUserMutation();
+
     useEffect(() => {
         setName(userInfo.name);
         setEmail(userInfo.email);
@@ -24,8 +29,23 @@ const ProfileScreen = () => {
         e.preventDefault();
         if (password !== confirmPassword) {
             toast.error('Passwords do not match');
+        }
+        else if (password == "" || confirmPassword == "") {
+            toast.error('Passwords cannot be empty');
         } else {
-            console.log('Submit!');
+            try {
+                const res = await updateProfile({
+                    _id: userInfo._id,
+                    name,
+                    email,
+                    password,
+                }).unwrap();
+                console.log(res);
+                dispatch(setCredentials(res));
+                toast.success('Profile updated successfully');
+            } catch (err) {
+                toast.error(err?.data?.message || err.error);
+            }
         }
     };
 
@@ -75,6 +95,8 @@ const ProfileScreen = () => {
                 <Button type='submit' variant='primary' className='mt-3'>
                     Update
                 </Button>
+
+                { isLoading && <Loader /> }
             </Form>
         </FormContainer>
     );
