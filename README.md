@@ -507,6 +507,23 @@ npm i react-toastify
 
 # Setup Redux Update Functionality
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/e4751a4bd78b9c53490d5b828d998e3a5fdf1139](https://github.com/omeatai/mern-project-auth-redux/commit/e4751a4bd78b9c53490d5b828d998e3a5fdf1139)
+
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/d8a851d9-ce00-48b2-86c8-062fd5548f3d">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/860506ce-6c25-4703-93c7-0c896fe58115">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/615aa1ca-d58f-414d-b9cc-e52c0c78d8ae">
+<img width="1140" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/f2cd6ba2-131d-418e-a58f-de4b04c4dcf8">
+<img width="1307" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/1e79b551-e53a-4e45-aa2f-b72dd6eb3f30">
+<img width="1307" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/271065a2-d426-4877-b1e6-4914c0e6a6c3">
+<img width="1307" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/06342814-c011-43cc-bc41-59df02ca0be4">
+
+# #End</details>
+
+<details>
+<summary>28. Setup For Production </summary>
+
+# Setup For Production
+
 ```x
 
 ```
