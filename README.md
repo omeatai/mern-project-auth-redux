@@ -564,8 +564,13 @@ npm run server
 
 # Deploy Project to cPanel Host with Github Actions CI/CD using FTP
 
+### [https://github.com/omeatai/mern-project-auth-redux/commit/d260bbcff609bcdc8e83520053e7c21e30cce774](https://github.com/omeatai/mern-project-auth-redux/commit/d260bbcff609bcdc8e83520053e7c21e30cce774)
+
 <img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/09561114-8ced-4048-bfce-ab93a4b8941f">
 <img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/11070b7a-7098-4904-bd24-20886d619b08">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/50a38589-3f4c-4437-898f-9d8611b576fe">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/5798bedf-8186-45b7-a24a-8bede97a4098">
+<img width="1243" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/b0fcc9df-9639-40cf-9ff9-e686e1848c95">
 
 
 ```x
