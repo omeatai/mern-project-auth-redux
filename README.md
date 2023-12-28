@@ -571,6 +571,10 @@ npm run server
 <img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/50a38589-3f4c-4437-898f-9d8611b576fe">
 <img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/5798bedf-8186-45b7-a24a-8bede97a4098">
 <img width="1243" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/b0fcc9df-9639-40cf-9ff9-e686e1848c95">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/e97b3461-9e5d-4cbf-a51c-2c44fc397825">
+
+<img width="1252" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/b3d01c0e-81b0-47c5-9456-6b77dce3ca7a">
+<img width="1252" alt="Screenshot 2023-12-27 at 11 06 53 PM" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/47078ff5-b647-432d-ac23-bf0e564b5b9b">
 
 
 ```x
