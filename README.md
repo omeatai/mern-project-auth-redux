@@ -575,7 +575,19 @@ npm run server
 
 <img width="1252" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/b3d01c0e-81b0-47c5-9456-6b77dce3ca7a">
 <img width="1252" alt="Screenshot 2023-12-27 at 11 06 53 PM" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/47078ff5-b647-432d-ac23-bf0e564b5b9b">
+<img width="238" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/b54ed22e-ea1b-4c5e-9a22-4d87d591db00">
 
+<img width="1383" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/0861993c-fafa-4e58-89a2-8fddccaa83a5">
+<img width="1383" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/90aa59c1-b522-44bb-a017-6dadb069dd00">
+<img width="1383" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/8582f494-8de8-4755-a917-2b251f6c1a98">
+<img width="1383" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/1cd763ab-bd39-4631-9364-e9b84a90b51a">
+
+# #End</details>
+
+<details>
+<summary>30. Setup CORs for Production </summary>
+
+# Setup CORs for Production
 
 ```x
 
