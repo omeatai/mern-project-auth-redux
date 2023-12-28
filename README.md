@@ -488,9 +488,24 @@ npm i react-toastify
 # #End</details>
 
 <details>
-<summary>26. Setup Redux Profile Component </summary>
+<summary>26. Setup Profile Component </summary>
 
-# Setup Redux Profile Component
+# Setup Profile Component
+
+### [https://github.com/omeatai/mern-project-auth-redux/commit/ced230735218f26cc47b98deb4658179bfc87838](https://github.com/omeatai/mern-project-auth-redux/commit/ced230735218f26cc47b98deb4658179bfc87838)
+
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/ffc3ff84-8a91-4685-a90c-78ae73f2f100">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/3a8ce80b-6f17-416a-a58f-453351c2b994">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/c409ed19-11be-4316-82af-c63ce18f3071">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/6c36730f-db24-465a-8c56-be1f56b9a248">
+<img width="1307" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/85914bd8-a11e-43f4-92b3-e7eef7d44a0f">
+
+# #End</details>
+
+<details>
+<summary>27. Setup Redux Update Functionality </summary>
+
+# Setup Redux Update Functionality
 
 ```x
 
