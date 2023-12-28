@@ -17,12 +17,22 @@ connectDB();
 const app = express();
 
 // CORs middleware
-const corsOption = {
-  origin: "https://mern-auth-project.ifeanyiomeata.com/",
-};
+const whitelist = ['https://mern-auth-project.ifeanyiomeata.com/']
+const corsOptions = {
+  origin: function (origin, callback) {
+    if (!origin) {
+      return callback(null, true);
+    }
+    if (whitelist.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'))
+    }
+  }
+}
 
 if (process.env.NODE_ENV === 'production') {
-  app.use(cors(corsOption));
+  app.use(cors(corsOptions));
 } else {
   app.use(cors());
 }
