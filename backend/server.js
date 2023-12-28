@@ -18,7 +18,7 @@ const app = express();
 
 // CORs middleware
 const corsOption = {
-  origin: ["https://mern-auth-project.ifeanyiomeata.com/"],
+  origin: "https://mern-auth-project.ifeanyiomeata.com/",
 };
 
 if (process.env.NODE_ENV === 'production') {
