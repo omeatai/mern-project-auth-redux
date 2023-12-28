@@ -520,17 +520,53 @@ npm i react-toastify
 # #End</details>
 
 <details>
-<summary>28. Setup For Production </summary>
+<summary>28. Setup For Production Deploy </summary>
 
-# Setup For Production
+# Setup For Production Deploy
+
+### [https://github.com/omeatai/mern-project-auth-redux/commit/1daa0adc7abbe1d396585b24bbf004404a856533](https://github.com/omeatai/mern-project-auth-redux/commit/1daa0adc7abbe1d396585b24bbf004404a856533)
+
+# Build Frontend for production
 
 ```x
-
+npm run build
 ```
+
+# Install CORS
 
 ```x
-
+npm install cors
 ```
+
+# Change NODE_ENV from Development to Production
+
+<img width="1140" alt="Screenshot 2023-12-27 at 10 08 04 PM" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/a0ead084-598c-49ce-a739-f67440a47ac5">
+
+# Test Build with Server
+
+```x
+npm run server
+```
+
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/cbfe8f16-76af-4417-94dd-d052a02b02a1">
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/d32abcbc-4053-4d72-9477-db904760ec68">
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/62df4af7-0748-44c2-aeec-36711d28f77c">
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/879de73b-aff5-464a-9d10-25bf4ac16290">
+<img width="1141" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/0ed8af17-6bcd-499b-8648-464745c10d32">
+<img width="1305" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/07291b14-5152-4402-9873-a98ee8a565b0">
+<img width="1305" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/d38b9c97-c149-4763-8275-b3d4dec17d0e">
+<img width="1305" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/5356a4cc-fbdf-4c17-88f5-185d84d34b02">
+
+# #End</details>
+
+<details>
+<summary>29. Deploy Project to cPanel Host with Github Actions CI/CD using FTP </summary>
+
+# Deploy Project to cPanel Host with Github Actions CI/CD using FTP
+
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/09561114-8ced-4048-bfce-ab93a4b8941f">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/11070b7a-7098-4904-bd24-20886d619b08">
+
 
 ```x
 
