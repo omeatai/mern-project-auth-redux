@@ -16,7 +16,17 @@ connectDB();
 
 const app = express();
 
-app.use(cors());
+// CORs middleware
+const corsOption = {
+  origin: ["https://mern-auth-project.ifeanyiomeata.com/"],
+};
+
+if (process.env.NODE_ENV === 'production') {
+  app.use(cors(corsOption));
+} else {
+  app.use(cors());
+}
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
