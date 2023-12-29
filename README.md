@@ -589,6 +589,11 @@ npm run server
 
 # Setup CORs for Production
 
+<img width="1185" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/263aceb6-69b9-470f-84e8-d3a80e2c8a05">
+<img width="1185" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/785a28e3-8d61-4a2b-8269-13fc986f6734">
+<img width="1139" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/70963c21-1401-4e30-b708-af6ed4bd2af1">
+
+
 ```x
 
 ```
