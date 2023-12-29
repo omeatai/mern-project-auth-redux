@@ -26,16 +26,6 @@ const corsOptions = {
 
 app.use(cors(corsOptions));
 
-app.use(function (req, res, next) {
-  req.headers.origin = req.headers.origin || req.headers.host;
-  if (req.headers.origin == "mern-auth-project.ifeanyiomeata.com") {
-    next();
-  } else {
-    res.json({ error: `Prohibited Access! Only https://example1.com/ url is allowed access not ${req.headers.origin}! ` })
-  }
-
-});
-
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
@@ -47,7 +37,6 @@ app.use("/api/users", userRoutes);
 if (process.env.NODE_ENV === 'production') {
   const __dirname = path.resolve();
   app.use(express.static(path.join(__dirname, '/frontend/dist')));
-  app.use(express.static('public', { type: 'application/javascript' }));
 
   app.get('*', (req, res) =>
     res.sendFile(path.resolve(__dirname, 'frontend', 'dist', 'index.html'))
