@@ -19,6 +19,11 @@ This is a modern mern Auth Redux Toolkit Application built with React Bootstrap,
 
 ## Demo
 
+### [https://mern-auth-project.ifeanyiomeata.com/](https://mern-auth-project.ifeanyiomeata.com/)
+
+<img width="1355" alt="image" src="https://github.com/omeatai/mern-project-auth-redux/assets/32337103/35855e23-7d61-40c6-88c5-e69f0ea027d4">
+
+
 ## Project Steps (Tutorial)
 
 <details>
